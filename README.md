@@ -1,7 +1,7 @@
 # Metal-detector-door
 Metal detector door
 
-
+<img src="https://zupimages.net/up/20/18/3hc9.jpg" alt="" />
 
 # Caractéristiques
 
