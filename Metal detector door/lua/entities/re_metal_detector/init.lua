@@ -3,7 +3,7 @@ include('shared.lua')
 resource.AddFile( "sound/roleplay/beep.mp3" )
 
 function ENT:Initialize()
-	self:SetModel("grinchfox/rp/frame.mdl")
+	self:SetModel("models/grinchfox/rp/frame.mdl")
 	self.Entity:PhysicsInit( SOLID_VPHYSICS )
 	self.Entity:SetMoveType( MOVETYPE_VPHYSICS )
 	self.Entity:SetSolid( SOLID_VPHYSICS )
