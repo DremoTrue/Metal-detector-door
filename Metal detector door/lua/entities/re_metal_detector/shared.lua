@@ -14,6 +14,6 @@ ENT.AdminSpawnable		= true
 
 function ENT:SetupModel()
 
-	self.Entity:SetModel( "grinchfox/rp/frame.mdl" )
+	self.Entity:SetModel( "models/grinchfox/rp/frame.mdl" )
 
 end
